@@ -1,0 +1,14 @@
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/lab2/bin/Debug/net10.0/lab2
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/lab2/bin/Debug/net10.0/lab2.deps.json
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/lab2/bin/Debug/net10.0/lab2.runtimeconfig.json
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/lab2/bin/Debug/net10.0/lab2.dll
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/lab2/bin/Debug/net10.0/lab2.pdb
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/lab2/obj/Debug/net10.0/lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/lab2/obj/Debug/net10.0/lab2.AssemblyInfoInputs.cache
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/lab2/obj/Debug/net10.0/lab2.AssemblyInfo.cs
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/lab2/obj/Debug/net10.0/lab2.csproj.CoreCompileInputs.cache
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/lab2/obj/Debug/net10.0/lab2.dll
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/lab2/obj/Debug/net10.0/refint/lab2.dll
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/lab2/obj/Debug/net10.0/lab2.pdb
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/lab2/obj/Debug/net10.0/lab2.genruntimeconfig.cache
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/lab2/obj/Debug/net10.0/ref/lab2.dll
