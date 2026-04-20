@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PHZ6Dk0xLTg=",
+  "success": true,
+  "projectFilePath": "/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/wpf-lab1/wpf-lab1.csproj",
+  "expectedPackageFiles": [
+    "/Users/wiktorpiwowar/.nuget/packages/microsoft.windowsdesktop.app.ref/10.0.3/microsoft.windowsdesktop.app.ref.10.0.3.nupkg.sha512",
+    "/Users/wiktorpiwowar/.nuget/packages/microsoft.netcore.app.host.win-x64/10.0.3/microsoft.netcore.app.host.win-x64.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

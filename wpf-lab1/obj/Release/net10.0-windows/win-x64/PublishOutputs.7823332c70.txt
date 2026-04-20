@@ -1,0 +1,5 @@
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/wpf-lab1/bin/Release/net10.0-windows/win-x64/publish/wpf-lab1.exe
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/wpf-lab1/bin/Release/net10.0-windows/win-x64/publish/wpf-lab1.dll
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/wpf-lab1/bin/Release/net10.0-windows/win-x64/publish/wpf-lab1.deps.json
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/wpf-lab1/bin/Release/net10.0-windows/win-x64/publish/wpf-lab1.runtimeconfig.json
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/wpf-lab1/bin/Release/net10.0-windows/win-x64/publish/wpf-lab1.pdb
