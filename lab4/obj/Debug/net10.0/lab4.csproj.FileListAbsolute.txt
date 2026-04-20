@@ -1,0 +1,6 @@
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/lab4/obj/Debug/net10.0/lab4.csproj.AssemblyReference.cache
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/lab4/obj/Debug/net10.0/lab4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/lab4/obj/Debug/net10.0/lab4.AssemblyInfoInputs.cache
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/lab4/obj/Debug/net10.0/lab4.AssemblyInfo.cs
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/lab4/obj/Debug/net10.0/lab4.csproj.CoreCompileInputs.cache
+/Users/wiktorpiwowar/Documents/Studia/Programowanie Obiektowe 2/lab4/obj/Debug/net10.0/lab4.sourcelink.json
